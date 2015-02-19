@@ -15,19 +15,16 @@ Let me know if it jelps you, or if there are any bug.
 
 # Demo Code
 
-<html >
+<html>
     <head>
            <link rel="stylesheet" type="text/css" href="css/style.css" />		  
     </head>
-    <body>		
-	
-		<div id="results">
-			
-		</div>		
+    <body>
+    <div id="results">	
+    </div>		
 			
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   
-		<script src="js/scrapercarousel.js"></script>
-
+	<script src="js/scrapercarousel.js"></script>
 	<script>
 		$("#results").scrapeslider(
 		{
